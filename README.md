@@ -1,7 +1,7 @@
 # Relapps - Discontinued
 
 
-![Screenshots](./assets/screenshots.jpeg)
+![Screenshots](./assets/screenshots_light.jpeg)
 
 
 ## About
